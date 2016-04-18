@@ -1,4 +1,4 @@
-Except on Tuesdays (Fizbin) Kinect Gesture Library
+Kinect Gesture Library
 ==================================================
 http://www.exceptontuesdays.com/
 
